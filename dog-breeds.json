@@ -1,0 +1,56 @@
+[
+    {
+        "breedId": "B101",
+        "breedName": "Golden Retriever",
+        "description": "Friendly, intelligent, and devoted. Great family dog.",
+        "size": "Large",
+        "lifespan": "10-12 years",
+        "origin": "Scotland",
+        "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+    },
+    {
+        "breedId": "B102",
+        "breedName": "Labrador Retriever",
+        "description": "Outgoing, even-tempered, and gentle. Perfect companion.",
+        "size": "Large",
+        "lifespan": "10-12 years",
+        "origin": "Canada",
+        "imageUrl": "https://dog.ceo/api/img/retriever/labrador/n02099712_5006.jpg"
+    },
+    {
+        "breedId": "B103",
+        "breedName": "Beagle",
+        "description": "Curious, merry, and friendly. A great family dog.",
+        "size": "Medium",
+        "lifespan": "12-15 years",
+        "origin": "England",
+        "imageUrl": "https://dog.ceo/api/img/beagle/n02088364_11147.jpg"
+    },
+    {
+        "breedId": "B104",
+        "breedName": "Bulldog",
+        "description": "Calm, courageous, and friendly. Adaptable to various lifestyles.",
+        "size": "Medium",
+        "lifespan": "8-10 years",
+        "origin": "England",
+        "imageUrl": "https://dog.ceo/api/img/bulldog/n02096585_1395.jpg"
+    },
+    {
+        "breedId": "B105",
+        "breedName": "Poodle",
+        "description": "Intelligent, active, and alert. Known for their curly coats.",
+        "size": "Medium",
+        "lifespan": "10-18 years",
+        "origin": "Germany",
+        "imageUrl": "https://dog.ceo/api/img/poodle/n02113712_3496.jpg"
+    },
+    {
+        "breedId": "B106",
+        "breedName": "Shiba Inu",
+        "description": "Alert, confident, and active. Independent dog breed.",
+        "size": "Medium",
+        "lifespan": "12-15 years",
+        "origin": "Japan",
+        "imageUrl": "https://dog.ceo/api/img/shiba/n02112910_5727.jpg"
+    }
+]
